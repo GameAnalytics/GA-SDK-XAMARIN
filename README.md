@@ -3,10 +3,6 @@ GameAnalytics Xamarin SDK.
 
 Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/wiki).
 
-> :warning: 
-> PENDING XAMARIN APPROVAL
-
-
 Changelog
 ---------
 
