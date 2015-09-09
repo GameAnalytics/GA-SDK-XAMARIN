@@ -6,6 +6,11 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 Changelog
 ---------
 
-**1.0.0**
-* Xamarin add-in
+**1.0.1**
+* Xamarin SDK for V2 API
 * iOS and Android support
+* progression event
+* business event validation
+* resource event
+* custom dimensions
+
