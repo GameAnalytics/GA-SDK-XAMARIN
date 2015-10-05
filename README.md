@@ -6,6 +6,9 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 Changelog
 ---------
 
+**1.1.1**
+* fix related to connection changes (android)
+
 **1.1.0**
 * improved code structure (android)
 * built library with Xcode7 (iOS 9.0)
