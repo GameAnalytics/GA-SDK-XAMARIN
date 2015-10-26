@@ -6,6 +6,9 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 Changelog
 ---------
 
+**1.2.0**
+* fixed tracking bug with ad opt out enabled (android)
+
 **1.1.2**
 * no network connection bug fix (android)
 
