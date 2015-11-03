@@ -6,6 +6,9 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 Changelog
 ---------
 
+**1.2.1**
+* android.permission.WRITE_EXTERNAL_STORAGE not needed anymore (android)
+
 **1.2.0**
 * fixed tracking bug with ad opt out enabled (android)
 
