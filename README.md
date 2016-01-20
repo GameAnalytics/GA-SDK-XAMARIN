@@ -5,6 +5,12 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 
 Changelog
 ---------
+**2.0.0**
+* altered jailbreak check causing ios9 warning (ios)
+* library / framework now compiled with bitcode (ios)
+* restructuring to prepare for tvOS (ios)
+* new java-only implementation (android)
+* install size reduced (android)
 
 **1.2.1**
 * android.permission.WRITE_EXTERNAL_STORAGE not needed anymore (android)
