@@ -5,6 +5,9 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 
 Changelog
 ---------
+**2.1.0**
+* submit errors functionality added
+
 **2.0.0**
 * altered jailbreak check causing ios9 warning (ios)
 * library / framework now compiled with bitcode (ios)
