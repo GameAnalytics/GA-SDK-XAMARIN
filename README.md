@@ -5,6 +5,10 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 
 Changelog
 ---------
+**2.2.0**
+* feature for using a custom user id
+* fix testflight issue with user id generation (ios)
+
 **2.1.0**
 * submit errors functionality added
 
