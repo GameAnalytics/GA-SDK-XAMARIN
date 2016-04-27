@@ -5,6 +5,10 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 
 Changelog
 ---------
+**2.2.2**
+* Minor bug fix for various event types (ios)
+* Add-in has been updated to work with Xamarin 6.x (add-in)
+
 **2.2.1**
 * Google Play Services libraries updated to version 8.4.0 (android)
 
