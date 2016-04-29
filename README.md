@@ -5,6 +5,10 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 
 Changelog
 ---------
+**2.3.0**
+* added support for tvOS (tvos)
+* fixed bug related to network changes for Android API level 23 and above (android)
+
 **2.2.2**
 * Minor bug fix for various event types (ios)
 * Add-in has been updated to work with Xamarin 6.x (add-in)
