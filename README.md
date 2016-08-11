@@ -5,6 +5,10 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 
 Changelog
 ---------
+**2.3.3**
+* added manual session handling
+* fixed bug for client timestamp handling and session length in certain edge cases
+
 **2.3.2**
 * external storage read and write permissions are now optional (android)
 
