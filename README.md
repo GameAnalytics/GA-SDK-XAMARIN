@@ -5,6 +5,10 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 
 Changelog
 ---------
+**2.3.4**
+* * fixed user_id tracking for iOS 10 (ios, tvos)
+* small fix related to manual session handling (android)
+
 **2.3.3**
 * added manual session handling
 * fixed bug for client timestamp handling and session length in certain edge cases
@@ -64,4 +68,3 @@ Changelog
 * business event validation
 * resource event
 * custom dimensions
-
