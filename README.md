@@ -5,6 +5,9 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 
 Changelog
 ---------
+**2.3.5**
+* bug fix to design events sent without value (android)
+
 **2.3.4**
 * * fixed user_id tracking for iOS 10 (ios, tvos)
 * small fix related to manual session handling (android)
