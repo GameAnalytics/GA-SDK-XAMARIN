@@ -6,6 +6,9 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.3.7**
+* fixed missing libraries
+
 **2.3.6**
 * possible to set custom dimensions and demographics before initialize
 
