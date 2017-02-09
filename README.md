@@ -6,6 +6,11 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.3.8**
+* added bundle_id, app version and app build tracking
+* added app signature and channel id (which app store was the app installed from)(android)
+* added IMEI as fallback option for identifier when Google AID and Android ID is not available on the device (requires to add optional READ_PHONE_STATE permission)(android)
+
 **2.3.7**
 * fixed missing libraries
 
