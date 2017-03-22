@@ -6,6 +6,9 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.3.9**
+* session length precision improvement
+
 **2.3.8**
 * added bundle_id, app version and app build tracking
 * added app signature and channel id (which app store was the app installed from)(android)
