@@ -6,6 +6,9 @@ Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/w
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**2.3.10**
+* bug fix for end session when using manual session handling
+
 **2.3.9**
 * session length precision improvement
 
