@@ -4,7 +4,7 @@
 # GA-SDK-XAMARIN
 GameAnalytics Xamarin SDK.
 
-Documentation is in the [wiki](https://github.com/GameAnalytics/GA-SDK-XAMARIN/wiki).
+Documentation can be found [here](https://gameanalytics.com/docs/xamarin-sdk).
 
 Changelog
 ---------
