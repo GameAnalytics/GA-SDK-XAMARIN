@@ -9,6 +9,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/xamarin-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.0.0**
+* added command center functionality
+
 **2.4.0**
 * added custom dimensions to design and error events
 * added accept terms for sign up dialog
