@@ -9,6 +9,9 @@ Documentation can be found [here](https://gameanalytics.com/docs/xamarin-sdk).
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**3.1.0**
+* added enable/disable event submission function
+
 **3.0.1**
 * fixed business event validation
 
