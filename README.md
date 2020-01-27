@@ -11,6 +11,10 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.0.1**
+* removed facebook, gender and birthyear methods
+* added auto detect app version for build field option
+
 **4.0.0**
 * Remote Config calls have been updated and the old calls have deprecated. Please see GA documentation for the new SDK calls and migration guide
 * A/B testing support added
