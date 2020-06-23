@@ -11,6 +11,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.1.1**
+* fixed progression events with scores (android)
+
 **4.1.0**
 * exposed functions to get AB testing id and variant id
 
