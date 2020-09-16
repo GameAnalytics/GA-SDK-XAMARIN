@@ -13,6 +13,7 @@ Changelog
 <!--(CHANGELOG_TOP)-->
 **4.3.2**
 * fixed removal of google play services dependencies
+* improved user identifer flow for ios (ios)
 
 **4.3.1**
 * correction to ad event function names
