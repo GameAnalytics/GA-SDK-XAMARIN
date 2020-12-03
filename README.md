@@ -11,6 +11,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.3.3**
+* corrected ad event annotation
+
 **4.3.2**
 * fixed removal of google play services dependencies
 * improved user identifer flow for ios (ios)
