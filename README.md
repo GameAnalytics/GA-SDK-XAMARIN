@@ -11,6 +11,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.3.4**
+* removed memory info from automatic crash reports
+
 **4.3.3**
 * corrected ad event annotation
 
