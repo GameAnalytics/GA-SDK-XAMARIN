@@ -11,6 +11,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**4.3.6**
+* updated client ts validator
+
 **4.3.5**
 * fixed dependencies for iOS (min. XCode 12 required)
 
