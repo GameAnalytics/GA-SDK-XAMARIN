@@ -11,6 +11,9 @@ If you have any issues or feedback regarding the SDK, please contact our friendl
 Changelog
 ---------
 <!--(CHANGELOG_TOP)-->
+**5.2.5**
+* fixed bug in internal error reporting
+
 **5.2.4**
 * added event uuid for events sent
 
