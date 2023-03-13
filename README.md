@@ -1,6 +1,9 @@
 [![NuGet](https://img.shields.io/nuget/v/GameAnalytics.XAMARIN.SDK.svg)](https://www.nuget.org/packages/GameAnalytics.XAMARIN.SDK)
 [![NuGet](https://img.shields.io/nuget/dt/GameAnalytics.XAMARIN.SDK.svg?label=nuget%20downloads)](https://www.nuget.org/packages/GameAnalytics.XAMARIN.SDK)
 
+> **Warning**
+> This SDK has been deprecated since 25th August 2022 and will not receive further updates. This repository is for legacy purposes only.
+
 # GA-SDK-XAMARIN
 GameAnalytics Xamarin SDK.
 
